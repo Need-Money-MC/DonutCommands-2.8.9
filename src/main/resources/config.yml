@@ -1,0 +1,14 @@
+prefix: '&6&lDonutCommands &8» '
+currency-symbol: '$'
+transaction-tax-percent: 2.0
+sell-gui-title: '&8Sell Items'
+auction-gui-title: '&8Auction House'
+orders-gui-title: '&8Buy Orders'
+auction-listing-limit: 18
+order-listing-limit: 18
+rules:
+  - '&eBe respectful.'
+  - '&eNo cheating or exploiting.'
+discord-url: 'Set your Discord URL in config.yml'
+rank-info: 'Set your rank information in config.yml'
+farming-meta: 'None configured'

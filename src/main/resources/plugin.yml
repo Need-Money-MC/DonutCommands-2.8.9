@@ -1,0 +1,94 @@
+name: DonutCommands
+version: 2.8.9
+main: com.luvex.donutcore.DonutCore
+api-version: '1.20'
+folia-supported: true
+author: Luvex
+description: Donut-inspired economy and player marketplace plugin.
+commands:
+  bal:
+    description: View balance
+  pay:
+    description: Pay a player
+  baltop:
+    description: Balance leaderboard
+  shards:
+    description: View shard balance
+  shardpay:
+    description: Pay shards
+  sell:
+    description: Open sell container
+  sellhand:
+    description: Sell held item
+  sellall:
+    description: Sell inventory
+  sellhistory:
+    description: View sell history
+  worth:
+    description: Check item base price
+  prices:
+    description: Open price list
+  price:
+    description: Price administration
+  ah:
+    description: Auction House
+  auctionhouse:
+    description: Auction House
+  orders:
+    description: Buy orders board
+  order:
+    description: Search buy orders
+  bounty:
+    description: Bounty board
+  leaderboard:
+    description: Leaderboards
+  stats:
+    description: Player statistics
+  ping:
+    description: Show ping
+  findplayer:
+    description: Find online player
+  block:
+    description: Block player
+  ignore:
+    description: Ignore player
+  unblock:
+    description: Unblock player
+  friend:
+    description: Friend management
+  settings:
+    description: Player settings
+  help:
+    description: DonutCommands help
+  rules:
+    description: Show rules
+  discord:
+    description: Show Discord link
+  ranks:
+    description: Show rank information
+  meta:
+    description: Show configured farming meta
+  whereami:
+    description: Generate report reference
+  link:
+    description: Account link code
+  api:
+    description: API key management
+  donutcore:
+    description: Plugin administration
+  dcadmin:
+    description: Economy administration
+
+permissions:
+  donutcommands.admin:
+    default: op
+  donutcommands.use:
+    default: true
+  donutcore.admin:
+    default: op
+  donutcore.admin.prices:
+    default: op
+  donutcore.admin.economy:
+    default: op
+  donutcore.use:
+    default: true

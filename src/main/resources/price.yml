@@ -1,0 +1,17 @@
+# Editable server /sell base prices. Values support plain numbers and k/m/b/t.
+# These are EXAMPLE values, not verified current DonutSMP server prices.
+prices:
+  DIAMOND: 100k
+  EMERALD: 50k
+  NETHERITE_INGOT: 17m
+  TOTEM_OF_UNDYING: 32.5k
+  ELYTRA: 0
+  BEACON: 295k
+  GOLD_INGOT: 500
+  IRON_INGOT: 250
+  OBSIDIAN: 510
+  ENDER_PEARL: 700
+  ENCHANTED_GOLDEN_APPLE: 1.6m
+  ANCIENT_DEBRIS: 7.4m
+  SHULKER_BOX: 9.5k
+  END_CRYSTAL: 15.5k
